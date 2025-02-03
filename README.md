@@ -154,9 +154,7 @@ make clean
 ---
 
 ## **8. Authors & Credits**
-This project was developed for **CSCI 4211: Computer Networking**.
-- **Author:** [Your Name]
-- **Instructor:** [Instructor's Name]
+- **Author:** Victor (Seungho) Shin
 - **Institution:** University of Minnesota
 
 📌 **GitHub Repository:** [Your GitHub Link]
