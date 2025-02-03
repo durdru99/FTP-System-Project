@@ -157,7 +157,7 @@ make clean
 - **Author:** Victor (Seungho) Shin
 - **Institution:** University of Minnesota
 
-📌 **GitHub Repository:** [Your GitHub Link]
+📌 **GitHub Repository:** [https://github.com/durdru99/FTP-System-Project]
 
 🚀 **Thank you for using this project!**
 
