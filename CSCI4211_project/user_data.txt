@@ -1,0 +1,3 @@
+alice:password123
+bob:secret456
+carol:letmein789
